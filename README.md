@@ -1,11 +1,11 @@
-# 👋 Olá! Eu sou Douglas Amon
+# 👋 Olá! Meu nome é Douglas Amon
 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Estudante+de+Ci%C3%AAncia+e+Tecnologia;Explorando+o+mundo+da+programa%C3%A7%C3%A3o;Engenharia+%7C+Tecnologia+%7C+Inova%C3%A7%C3%A3o;Transformando+ideias+em+solu%C3%A7%C3%B5es!" alt="Typing SVG" />
 
-🎓 Ciência e Tecnologia | UFRN  
-💻 Desenvolvimento de Software | Engenharia | Tecnologia
+🎓 Engenharia de Computação | UFRN  
+💻 Desenvolvimento de Software | Engenharia | Tecnologia 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU-USUARIO)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU-LINKEDIN)
@@ -16,16 +16,15 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de **Ciência e Tecnologia na Universidade Federal do Rio Grande do Norte (UFRN)**, interessado em explorar como a tecnologia e a engenharia podem transformar ideias em soluções reais.
+Sou estudante de **Engenharia de Computação na Universidade Federal do Rio Grande do Norte (UFRN)**, interessado em explorar como a tecnologia e a engenharia podem transformar ideias em soluções reais.
 
 Tenho interesse em diferentes áreas da computação e engenharia, especialmente:
 
-- 💻 Desenvolvimento de Software e aplicações web.
-- ⚙️ Engenharia de Software e arquitetura de sistemas.
 - 📊 Ciência de Dados e Machine Learning.
 - 🎛️ Sistemas de Controle e Automação.
+- ⚙️ Robótica.
 - 🔌 Eletrônica e Sistemas Embarcados.
-- 🧠 Algoritmos, programação e resolução de problemas.
+- 💻 Desenvolvimento de Software e aplicações web.
 
 Gosto de aprender na prática, desenvolver projetos acadêmicos e experimentar novas tecnologias. Acredito que cada projeto é uma oportunidade de evoluir e transformar conhecimento em experiência.
 
