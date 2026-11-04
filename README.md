@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Estudante+de+Ci%C3%AAncia+e+Tecnologia;Explorando+o+mundo+da+programa%C3%A7%C3%A3o;Engenharia+%7C+Tecnologia+%7C+Inova%C3%A7%C3%A3o;Transformando+ideias+em+solu%C3%A7%C3%B5es!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Estudante+de+Engenharia+de+Computa%C3%A7%C3%A3o;Explorando+o+mundo+da+programa%C3%A7%C3%A3o;Engenharia+%7C+Tecnologia+%7C+Inova%C3%A7%C3%A3o;Transformando+ideias+em+solu%C3%A7%C3%B5es!" alt="Typing SVG" />
 
 🎓 Engenharia de Computação | UFRN  
 💻 Desenvolvimento de Software | Engenharia | Tecnologia 
