@@ -60,26 +60,6 @@ Gosto de aprender na prática, desenvolver projetos acadêmicos e experimentar n
 | Eletrônica | Circuitos, simulação e análise |
 | Programação | Algoritmos, C, C++ e Python |
 
-## 📊 Minhas estatísticas no GitHub
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=8&theme=tokyonight"/>
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=tokyonight" />
-
-</div>
-
-## 🐍 Minha atividade no GitHub
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
 ## 🎯 Atualmente
 
 - 📖 Aprofundando meus conhecimentos em programação e desenvolvimento web.
